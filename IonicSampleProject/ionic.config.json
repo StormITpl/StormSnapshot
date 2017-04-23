@@ -1,0 +1,12 @@
+{
+  "name": "IonicSampleProject",
+  "app_id": "",
+  "v2": true,
+  "typescript": true,
+  "proxies": [
+    {
+      "path": "/rss",
+      "proxyUrl": "https://stormit.pl/feed"
+    }
+  ]
+}
